@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\listaobjs\bin\Debug\net5.0\listaobjs.exe
+C:\Users\dev\Desktop\listaobjs\bin\Debug\net5.0\listaobjs.deps.json
+C:\Users\dev\Desktop\listaobjs\bin\Debug\net5.0\listaobjs.runtimeconfig.json
+C:\Users\dev\Desktop\listaobjs\bin\Debug\net5.0\listaobjs.runtimeconfig.dev.json
+C:\Users\dev\Desktop\listaobjs\bin\Debug\net5.0\listaobjs.dll
+C:\Users\dev\Desktop\listaobjs\bin\Debug\net5.0\ref\listaobjs.dll
+C:\Users\dev\Desktop\listaobjs\bin\Debug\net5.0\listaobjs.pdb
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\listaobjs.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\listaobjs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\listaobjs.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\listaobjs.AssemblyInfo.cs
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\listaobjs.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\listaobjs.dll
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\ref\listaobjs.dll
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\listaobjs.pdb
+C:\Users\dev\Desktop\listaobjs\obj\Debug\net5.0\listaobjs.genruntimeconfig.cache
