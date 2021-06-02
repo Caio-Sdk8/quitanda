@@ -6,19 +6,18 @@ namespace listaobjs.classes
     {
         private string Codigo {get; set;}
 
-        public string Nome{get;}
+        public string Nome{get; set;}
 
-        public float Preco{get;}
+        public float Preco{get; set;}
 
-        public string id {get;}
+        public int id {get; set;}
 
-        public int QuantiEstoque{get;}
+        public int QuantiEstoque{get; set;}
 
         public Produto(string nome, float preco, int quantiestoque){
-            Random codigo = new Random(90000000);
+            Random codigo = new Random(99999999);
             
             this.Codigo = codigo.ToString();
-            this.id = Codigo;
             this.Nome = nome;
             this.Preco = preco;
             this.QuantiEstoque = quantiestoque;
